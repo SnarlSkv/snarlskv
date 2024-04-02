@@ -4,14 +4,17 @@
 
 Langueges and Tools
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Redux/Redux Toolkit](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Tailwind](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=tailwind)
 
 ## Key Skills
-Designed and created ? websites using HTML, CSS and
-Upgraded code and design of existing websites with JavaScript
+Front-End developer with deep knowledge HTML, CSS, 
+JavaScript and the React framework, Redux/Redux Toolkit.
 
 ## Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=84068E)](https://www.instagram.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=27A0D9)] serhiikuzub@gmail.com
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/@serhiikuzub)
